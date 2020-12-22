@@ -5,4 +5,4 @@ git tracks changes of files.
 
 Creating a new branch is quick and simple;
 
-new dev
+new dev   dev2   dev3
